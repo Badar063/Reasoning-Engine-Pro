@@ -1,9 +1,6 @@
 # ============================================
 # REASONING AGENT - Advanced Logic & Reasoning App
 # ============================================
-# A sophisticated AI agent that demonstrates transparent reasoning
-# by showing its thought process before providing answers.
-# ============================================
 
 import sys
 import time
